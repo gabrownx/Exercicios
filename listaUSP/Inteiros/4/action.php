@@ -1,5 +1,3 @@
 <?php
-$x=10;
-$n = 2;
-echo pow ($x, $n);
+echo pow ($_POST['X'], $_POST['N']);
 ?>
