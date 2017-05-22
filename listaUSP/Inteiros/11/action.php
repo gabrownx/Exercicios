@@ -7,8 +7,8 @@ for ($i = 1; $i <= $num; $i++){
     }
 }
 if ($cont == 2){
-    echo "O número " .$num. "é primo."
+    echo "O número " .$num. " é primo.";
 } else {
-    echo "O número " .$num. "não é primo."
+    echo "O número " .$num. " não é primo.";
 }
 ?>
