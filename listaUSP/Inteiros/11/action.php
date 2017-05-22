@@ -6,9 +6,10 @@ for ($i = 1; $i <= $num; $i++){
         $cont++;
     }
 }
-if ($cont == 2){
+
+    if ($cont == 2){
     echo "O número " .$num. " é primo.";
-} else {
+    } else {
     echo "O número " .$num. " não é primo.";
-}
+    }
 ?>
